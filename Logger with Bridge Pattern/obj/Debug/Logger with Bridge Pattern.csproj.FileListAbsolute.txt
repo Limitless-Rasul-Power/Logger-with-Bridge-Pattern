@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Logger with Bridge Pattern\Logger with Bridge Pattern\bin\Debug\Logger with Bridge Pattern.exe.config
+C:\Users\Admin\source\repos\Logger with Bridge Pattern\Logger with Bridge Pattern\bin\Debug\Logger with Bridge Pattern.exe
+C:\Users\Admin\source\repos\Logger with Bridge Pattern\Logger with Bridge Pattern\bin\Debug\Logger with Bridge Pattern.pdb
+C:\Users\Admin\source\repos\Logger with Bridge Pattern\Logger with Bridge Pattern\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\Logger with Bridge Pattern\Logger with Bridge Pattern\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\Logger with Bridge Pattern\Logger with Bridge Pattern\obj\Debug\Logger with Bridge Pattern.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Logger with Bridge Pattern\Logger with Bridge Pattern\obj\Debug\Logger with Bridge Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Logger with Bridge Pattern\Logger with Bridge Pattern\obj\Debug\Logger with Bridge Pattern.csproj.CopyComplete
+C:\Users\Admin\source\repos\Logger with Bridge Pattern\Logger with Bridge Pattern\obj\Debug\Logger with Bridge Pattern.exe
+C:\Users\Admin\source\repos\Logger with Bridge Pattern\Logger with Bridge Pattern\obj\Debug\Logger with Bridge Pattern.pdb
